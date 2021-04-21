@@ -1,0 +1,16 @@
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\bin\Debug\netcoreapp3.1\CPUMonitor.exe
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\bin\Debug\netcoreapp3.1\CPUMonitor.deps.json
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\bin\Debug\netcoreapp3.1\CPUMonitor.runtimeconfig.json
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\bin\Debug\netcoreapp3.1\CPUMonitor.runtimeconfig.dev.json
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\bin\Debug\netcoreapp3.1\CPUMonitor.dll
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\bin\Debug\netcoreapp3.1\CPUMonitor.pdb
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\obj\Debug\netcoreapp3.1\CPUMonitor.csprojAssemblyReference.cache
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\obj\Debug\netcoreapp3.1\CPUMonitor.AssemblyInfoInputs.cache
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\obj\Debug\netcoreapp3.1\CPUMonitor.AssemblyInfo.cs
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\obj\Debug\netcoreapp3.1\CPUMonitor.csproj.CoreCompileInputs.cache
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\obj\Debug\netcoreapp3.1\CPUMonitor.dll
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\obj\Debug\netcoreapp3.1\CPUMonitor.pdb
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\obj\Debug\netcoreapp3.1\CPUMonitor.genruntimeconfig.cache
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\obj\Debug\netcoreapp3.1\CPUMonitor.StockMainSetting.resources
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\obj\Debug\netcoreapp3.1\CPUMonitor.csproj.GenerateResource.cache
+C:\Users\eyi\source\repos\CPUMonitor\CPUMonitor\obj\Debug\netcoreapp3.1\CPUMonitor.StockMonitorForm.resources
